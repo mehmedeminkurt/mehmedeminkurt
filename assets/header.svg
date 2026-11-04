@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-labelledby="t d">
+<title id="t">Mehmed Emin Kurt</title>
+<desc id="d">Bilgisayar Programcılığı öğrencisi. Animasyon: bir anahtar doğrulanır, kuyruğa girer, worker tarafından işlenir ve doğrulama koduna dönüşür.</desc>
+<style>
+.name{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:800;letter-spacing:-3.5px}
+.sub{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:500}
+.nm{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:600;font-size:19px;text-anchor:middle;fill:#11151b}
+.cap{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;font-size:15px;text-anchor:middle;fill:#6b7480}
+.cap.last{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:800;font-size:40px;letter-spacing:-1.5px;fill:#2b3bff}
+.tick{fill:#11151b;stroke:#11151b;stroke-width:1.5}
+.dot{fill:#2b3bff}
+.halo{fill:#2b3bff;opacity:.14}
+.dotg{transform:translateX(1029px)}
+.prog{transform-origin:64px 250px;transform:scaleX(1)}
+@media (prefers-reduced-motion:no-preference){
+ .dotg{animation:dot 9s infinite}
+ .prog{animation:prog 9s infinite}
+ .t0{animation:f0 9s infinite} .n0{animation:g0 9s infinite} .c0{animation:o0 9s infinite}
+ .t1{animation:f1 9s infinite} .n1{animation:g1 9s infinite} .c1{animation:o1 9s infinite}
+ .t2{animation:f2 9s infinite} .n2{animation:g2 9s infinite} .c2{animation:o2 9s infinite}
+ .t3{animation:f3 9s infinite} .n3{animation:g3 9s infinite} .c3{animation:o3 9s infinite}
+ .t4{animation:f4 9s infinite} .n4{animation:g4 9s infinite} .c4{animation:o4 9s infinite}
+}
+@keyframes dot{
+0%{transform:translateX(171px);opacity:1}
+10%{transform:translateX(171px)}
+22%{transform:translateX(386px);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+26%{transform:translateX(386px)}
+38%{transform:translateX(600px);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+42%{transform:translateX(600px)}
+54%{transform:translateX(814px);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+58%{transform:translateX(814px)}
+70%{transform:translateX(1029px);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+92%{transform:translateX(1029px)}
+95%{transform:translateX(1029px);opacity:1}
+97%{transform:translateX(1029px);opacity:0}
+99%{transform:translateX(171px);opacity:0}
+100%{transform:translateX(171px);opacity:1}
+}
+@keyframes prog{
+0%{transform:scaleX(0.0998);opacity:1}
+10%{transform:scaleX(0.0998)}
+22%{transform:scaleX(0.3004);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+26%{transform:scaleX(0.3004)}
+38%{transform:scaleX(0.5000);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+42%{transform:scaleX(0.5000)}
+54%{transform:scaleX(0.6996);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+58%{transform:scaleX(0.6996)}
+70%{transform:scaleX(0.9002);animation-timing-function:cubic-bezier(.65,0,.35,1)}
+92%{transform:scaleX(0.9002)}
+95%{transform:scaleX(1);opacity:1}
+97%{transform:scaleX(1);opacity:0}
+99%{transform:scaleX(0);opacity:0}
+100%{transform:scaleX(0);opacity:1}
+}
+@keyframes f0{0%,5%{fill:#e9ecef;stroke:#b9bec6}6%,92%{fill:#11151b;stroke:#11151b}96%,100%{fill:#e9ecef;stroke:#b9bec6}}
+@keyframes g0{0%,5%{fill:#6b7480}6%,92%{fill:#11151b}96%,100%{fill:#6b7480}}
+@keyframes o0{0%,5%{opacity:0;transform:translateY(8px)}8%,92%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(0)}}
+@keyframes f1{0%,21%{fill:#e9ecef;stroke:#b9bec6}22%,92%{fill:#11151b;stroke:#11151b}96%,100%{fill:#e9ecef;stroke:#b9bec6}}
+@keyframes g1{0%,21%{fill:#6b7480}22%,92%{fill:#11151b}96%,100%{fill:#6b7480}}
+@keyframes o1{0%,21%{opacity:0;transform:translateY(8px)}24%,92%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(0)}}
+@keyframes f2{0%,37%{fill:#e9ecef;stroke:#b9bec6}38%,92%{fill:#11151b;stroke:#11151b}96%,100%{fill:#e9ecef;stroke:#b9bec6}}
+@keyframes g2{0%,37%{fill:#6b7480}38%,92%{fill:#11151b}96%,100%{fill:#6b7480}}
+@keyframes o2{0%,37%{opacity:0;transform:translateY(8px)}40%,92%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(0)}}
+@keyframes f3{0%,53%{fill:#e9ecef;stroke:#b9bec6}54%,92%{fill:#11151b;stroke:#11151b}96%,100%{fill:#e9ecef;stroke:#b9bec6}}
+@keyframes g3{0%,53%{fill:#6b7480}54%,92%{fill:#11151b}96%,100%{fill:#6b7480}}
+@keyframes o3{0%,53%{opacity:0;transform:translateY(8px)}56%,92%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(0)}}
+@keyframes f4{0%,69%{fill:#e9ecef;stroke:#b9bec6}70%,92%{fill:#11151b;stroke:#11151b}96%,100%{fill:#e9ecef;stroke:#b9bec6}}
+@keyframes g4{0%,69%{fill:#6b7480}70%,92%{fill:#11151b}96%,100%{fill:#6b7480}}
+@keyframes o4{0%,69%{opacity:0;transform:translateY(8px)}72%,92%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(0)}}
+</style>
+<rect width="1200" height="330" rx="22" fill="#e9ecef"/>
+<text class="name" x="60" y="124" font-size="88" fill="#11151b">Mehmed Emin Kurt</text>
+<text class="sub" x="64" y="168" font-size="23" fill="#4f5967">Bilgisayar Programcılığı öğrencisi · backend</text>
+<rect x="64" y="250" width="1072" height="1.5" fill="#cfd3d9"/>
+<rect class="prog" x="64" y="250" width="1072" height="1.5" fill="#11151b"/>
+<circle class="tick t0" cx="171" cy="250" r="4.5"/>
+<text class="nm n0" x="171" y="286">anahtar</text>
+<text class="cap c0" x="171" y="224">DEMO-4F7A…A6BE</text>
+<circle class="tick t1" cx="386" cy="250" r="4.5"/>
+<text class="nm n1" x="386" y="286">doğrulama</text>
+<text class="cap c1" x="386" y="224">200 OK · 22 ms</text>
+<circle class="tick t2" cx="600" cy="250" r="4.5"/>
+<text class="nm n2" x="600" y="286">kuyruk</text>
+<text class="cap c2" x="600" y="224">iş #1042</text>
+<circle class="tick t3" cx="814" cy="250" r="4.5"/>
+<text class="nm n3" x="814" y="286">worker</text>
+<text class="cap c3" x="814" y="224">IMAP · INBOX</text>
+<circle class="tick t4" cx="1029" cy="250" r="4.5"/>
+<text class="nm n4" x="1029" y="286">kod</text>
+<text class="cap c4 last" x="1029" y="224">483 917</text>
+<g class="dotg"><circle class="halo" cx="0" cy="250" r="14"/><circle class="dot" cx="0" cy="250" r="7"/></g>
+</svg>
