@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Mehmed Emin Kurt, Bilgisayar Programcılığı öğrencisi. Animasyon: bir anahtar doğrulanır, kuyruğa girer, worker işler ve doğrulama koduna dönüşür.">
+  <img src="assets/header.svg" width="100%" alt="Mehmed Emin Kurt, Bilgisayar Programcılığı öğrencisi, backend. OtoGuard canlıda: otoguard.tr">
 </p>
 
 Merhaba, ben Mehmed. İstanbul Üniversitesi-Cerrahpaşa'da Bilgisayar Programcılığı okuyorum. Tekrar eden işleri otomatikleştiren yazılımlar geliştiriyorum.
