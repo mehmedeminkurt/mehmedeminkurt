@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Mehmed Emin Kurt, Bilgisayar Programcılığı öğrencisi, backend. OtoGuard canlıda: otoguard.tr">
+  <img src="assets/header-v2.svg" width="100%" alt="Mehmed Emin Kurt, Bilgisayar Programcılığı öğrencisi, backend. OtoGuard canlıda: otoguard.tr">
 </p>
 
 Merhaba, ben Mehmed. İstanbul Üniversitesi-Cerrahpaşa'da Bilgisayar Programcılığı okuyorum. Tekrar eden işleri otomatikleştiren yazılımlar geliştiriyorum.
