@@ -16,8 +16,6 @@
 <text x="48" y="124" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-weight="700" font-size="19" fill="#11151b">Veritabanı</text>
 <g transform="translate(250,104)" fill="none" stroke="#7d8590" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3" /> <path d="M3 5V19A9 3 0 0 0 21 19V5" /> <path d="M3 12A9 3 0 0 0 21 12" /></g>
 <text x="284" y="123" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-weight="600" font-size="19" fill="#11151b">PostgreSQL</text>
-<g transform="translate(421,104)" fill="none" stroke="#7d8590" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3" /> <path d="M3 5V19A9 3 0 0 0 21 19V5" /> <path d="M3 12A9 3 0 0 0 21 12" /></g>
-<text x="455" y="123" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-weight="600" font-size="19" fill="#11151b">MySQL</text>
 <g transform="translate(540,104)" fill="none" stroke="#7d8590" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3" /> <path d="M3 5V19A9 3 0 0 0 21 19V5" /> <path d="M3 12A9 3 0 0 0 21 12" /></g>
 <text x="574" y="123" font-family='-apple-system,"Segoe UI",Helvetica,Arial,sans-serif' font-weight="600" font-size="19" fill="#11151b">SQLite</text>
 <rect x="48" y="152" width="1104" height="1" fill="#d3d7dc"/>

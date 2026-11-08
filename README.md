@@ -15,7 +15,7 @@ Merhaba, ben Mehmed. İstanbul Üniversitesi-Cerrahpaşa'da Bilgisayar Programc�
 ### Teknolojiler
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Backend: Node.js, TypeScript, Express, Next.js, Prisma, Redis, REST API. Veritabanı: PostgreSQL, MySQL, SQLite. IoT: ESP32, Arduino C/C++, MQTT, Node-RED. Diğer: Python, Git, GitHub, görüntü işleme (temel), İngilizce (B1).">
+  <img src="assets/stack.svg" width="100%" alt="Backend: Node.js, TypeScript, Express, Next.js, Prisma, Redis, REST API. Veritabanı: PostgreSQL, SQLite. IoT: ESP32, Arduino C/C++, MQTT, Node-RED. Diğer: Python, Git, GitHub, görüntü işleme (temel), İngilizce (B1).">
 </p>
 
 ### Daha önce
